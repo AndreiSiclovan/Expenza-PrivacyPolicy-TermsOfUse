@@ -10,15 +10,6 @@ The information we collect is done automatically through out your usage of the B
 Information we may collect from you
 Our primary goals in collecting information are to provide and improve our Budgeter app, to enable you to enjoy and easily navigate our Budgeter app. All information we collect is anonymous and can’t be used to identify you. Information is used and collected as follows:
 
-Account Information
-On Budgeter for iOS:
-
-In order to use the Budgeter app we do not need or ask for any account informations. You don’t have to log in or provide any personal information. To fully benefit from the Budgeter app you can use your iTunes Account as well as your iCloud Account, both of which are subject to Apple’s Privacy Policy and we do not have access to any information from those accounts, we do not track or store any details from these account nor the contents of them. Your iCloud Account is private and can be accessed only by you. We also do not have access to your iTunes and iCloud id’s those are private only to you.
-
-On Budgeter for Android:
-
-In order to use the Budgeter app we do not need or ask for any account informations. You don’t have to log in or provide any personal information. To fully benefit from the Budgeter app features like across device synchronisation, you must register to Budgeter with an e-mail and password, the account created is used to identify your Budgeter data and sync it between your devices. We do not use this data for anything else and you can delete it at any time.
-
 Tracking Information
 In order to offer you the best possible service, we track anonymous Device Information like operating system, device type, and system performance information. This helps us identify bugs and better understand how they appear in regards to those Device characteristics. We store this information using third party mobile technologies as described below( in the “Third party mobile technologies tracking” section).
 
@@ -31,7 +22,6 @@ De-Identified Personal Data
 Third party mobile technologies tracking
 Budgeter app uses GDPR compliant third-party technologies to automatically gather anonymous information about your activity within the app in order to improve the service by detecting bugs and app improvement opportunities as well as for marketing and statistical information. Information gathered by these technologies are not stored in any way by the Budgeter app only by the third-party services used. The shared aggregated information and non-identifying information with third-party services is for industry research and analysis, demographic profiling and other similar purposes.  All the third-party services used in the app as well as their purpose are described below:
 
-Facebook API – Used to gather anonymous user behavioural data such as interests, hobbies, likes, in order for us to better understand our users and be able to market the app to users with similar interests. No information that could identify you is shared with us without your consent.
 Google(Firebase) – Used to gather information for analytics purposes in order to provide the best experience possible within the app. Information gathered like what pages are most visited, what features are most used. All these information is stored by Google and helps us improve the app and make the experience more pleasant.
 On Budgeter for iOS:
 
